@@ -1,5 +1,7 @@
 # Kerbin-Side Jobs :: Change Log
 
+* 2016-0428: 2.1 (AlphaAsh) for KSP 1.1.2
+	+ Updated for Contract Configurator v 1.11.0.
 * 2016-0428: 2.0 (AlphaAsh) for KSP 1.1
 	+ Included v0.1 of KerKonConConExt.dll.
 	+ This extends Contract Configurator to allow contracts to more directly operate on Kerbal Konstructs.
